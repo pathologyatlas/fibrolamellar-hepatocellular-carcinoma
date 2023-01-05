@@ -38,36 +38,36 @@ source("./R/language.R")
 **Hepatoselüler karsinom, fibrolamellar**
 
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 
 ```
@@ -80,36 +80,36 @@ Mikroskopik görüntüleri inceleyin:
 **Hepatocellular carcinoma, fibrolamellar**
 
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE3.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE3.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 <hr>
 
 
-[https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html](https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html)
+[https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html](https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/fibrolamellar-hepatocellular-carcinoma/HE4.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/fibrolamellar-hepatocellular-carcinoma/HE4.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
